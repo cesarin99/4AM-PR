@@ -1,0 +1,42 @@
+.container {
+    width: 920px;
+    margin: 0 auto;
+}
+
+#encabezado {
+    height: 150px;
+    background-color: darkblue;
+}
+
+#barra-navegacion {
+    height: 50px;
+    background-color: darkred;
+}
+
+#nota-principal {
+    height: 300px;
+    background-color: darkcyan;
+}
+
+#notas-secundarias {
+    width: 660px;
+    padding: 20px;
+    float: left;
+    height: 260px;
+    background-color: darkmagenta;  
+}
+
+#publicidad {
+    width: 210px;
+    padding: 5px;
+    float: right;
+    height: 290;
+    background-color: darkgreen;
+}
+
+#pie {
+    clear: both;
+    height: 150px;
+    background-color: forestgreen;
+    
+}
