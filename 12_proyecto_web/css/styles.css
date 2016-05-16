@@ -54,10 +54,10 @@
 }
 
 #nota-principal {
-    height: 300px;
     background-color: darkturquoise;
-    border: 10px solid #abc;
+    border: 0 0 10px solid #abc;
     box-shadow: 0 0 10px #ddd;
+    margin-top: 10px;
 }
 
 #notas-secundarias {
